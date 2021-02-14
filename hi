@@ -1,4 +1,4 @@
 TITLE=test
 DESC=testing for this thingy
 INSTALLWGET=https://ahmedserver.ml
-DEPENDENCEYS=(bitcoin rtl88x2bu)
+DEPENDENCEYS=bitcoin rtl88x2bu
