@@ -1,0 +1,3 @@
+TITLE=wifi drivers for rtl88x2bu
+DESC=Cool driver for rtl88x2bu is open source so cooler i guess
+INSTALLGIT=https://github.com/RinCat/RTL88x2BU-Linux-Driver.git
